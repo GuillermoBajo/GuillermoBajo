@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **a cross-platform app**
  
- 🌱 I’m currently learning **React Native, Node.js, Angular**
+ 🌱 I’m currently learning **React Native, Node.js, Kubernetes**
 
  🔮 I believe in the **power of technology** to bring people together and make the world a better place
 
@@ -39,8 +39,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,androidstudio,angular,html,css,vscode,github,figma,tailwind,git,azure,kubernetes" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,docker,typescript,aws,cpp,c,java,nextjs,go,bash,swift" /><br>
+    <img src="https://skillicons.dev/icons?i=react,androidstudio,html,css,vscode,github,tailwind,git,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,docker,aws,cpp,c,java,go,figma,bash" /><br>
 </div>
 
 <br/>
