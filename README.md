@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a cross-platform app**
  
- 🌱 I’m currently learning **React Native, Node.js, Kubernetes**
+ 🌱 I’m currently learning **React Native, Kubernetes**
 
  🔮 I believe in the **power of technology** to bring people together and make the world a better place
 
