@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a cross-platform app**
+ 🔭 I’m currently working on **AI-based malware detection software using ML**
  
  🌱 I’m currently learning **React Native, Kubernetes**
 
