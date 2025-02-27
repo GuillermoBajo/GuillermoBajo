@@ -8,13 +8,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **AI-based malware detection software using ML**
+ 🔭 I’m currently working on **spatial keyword query processing analysis and evaluation.**
  
- 🌱 I’m currently learning **React Native, Kubernetes**
+ 🌱 I’m currently learning **AI & Machine Learning and Kubernetes**
 
  🔮 I believe in the **power of technology** to bring people together and make the world a better place
 
-🌐 Soon, I plan to **develop a social app** centered on fostering community engagement within the context of accommodations
+🌐 Soon, I plan to **develop an AI-driven social app** designed to enhance community engagement within the accommodations sector.
 
  </div>
 
