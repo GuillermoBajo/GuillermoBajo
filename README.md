@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **spatial keyword query processing analysis and evaluation.**
  
- 🌱 I’m currently learning **AI & Machine Learning and Kubernetes**
+ 🌱 I’m currently learning **Data Engineering and Kubernetes**
 
  🔮 I believe in the **power of technology** to bring people together and make the world a better place
 
